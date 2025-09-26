@@ -1,0 +1,5 @@
+GitHub: https://github.com/USUARIO/REPO  (reemplazar)
+Binder: https://mybinder.org/v2/gh/USUARIO/REPO/BRANCH?urlpath=lab
+
+Sugerencia Voila (opcional si usas un notebook):
+https://mybinder.org/v2/gh/USUARIO/REPO/BRANCH?urlpath=voila%2Frender%2Fnotebooks%2Fdashboard.ipynb
